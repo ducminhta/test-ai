@@ -1,0 +1,867 @@
+================================================================================
+FACILITY MANAGEMENT DATABASE EXPORT
+Generated on: 2025-03-13 01:39:45
+================================================================================
+
+ROOMS
+--------------------------------------------------------------------------------
+Room ID: 1
+Room Number: 101
+Name: Conference Hall Beta
+Floor: 1
+Capacity: 32 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 2
+Room Number: 102
+Name: Auditorium Beta
+Floor: 1
+Capacity: 49 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 3
+Room Number: 103
+Name: Lab Alpha
+Floor: 1
+Capacity: 34 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 4
+Room Number: 104
+Name: Conference Hall Dragon
+Floor: 1
+Capacity: 31 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 5
+Room Number: 105
+Name: Meeting Room Dragon
+Floor: 1
+Capacity: 47 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 6
+Room Number: 106
+Name: Auditorium Sigma
+Floor: 1
+Capacity: 38 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 7
+Room Number: 201
+Name: Conference Hall Gamma
+Floor: 2
+Capacity: 48 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 8
+Room Number: 202
+Name: Lab Alpha
+Floor: 2
+Capacity: 49 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 9
+Room Number: 203
+Name: Auditorium Delta
+Floor: 2
+Capacity: 11 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 10
+Room Number: 204
+Name: Office Dragon
+Floor: 2
+Capacity: 41 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 11
+Room Number: 205
+Name: Lab Gamma
+Floor: 2
+Capacity: 37 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 12
+Room Number: 206
+Name: Auditorium Phoenix
+Floor: 2
+Capacity: 11 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 13
+Room Number: 301
+Name: Study Room Sigma
+Floor: 3
+Capacity: 19 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 14
+Room Number: 302
+Name: Office Dragon
+Floor: 3
+Capacity: 38 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 15
+Room Number: 303
+Name: Break Room Delta
+Floor: 3
+Capacity: 33 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 16
+Room Number: 304
+Name: Lab Delta
+Floor: 3
+Capacity: 46 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 17
+Room Number: 305
+Name: Conference Hall Beta
+Floor: 3
+Capacity: 39 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 18
+Room Number: 306
+Name: Auditorium Lion
+Floor: 3
+Capacity: 9 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 19
+Room Number: 401
+Name: Office Delta
+Floor: 4
+Capacity: 40 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 20
+Room Number: 402
+Name: Study Room Alpha
+Floor: 4
+Capacity: 18 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 21
+Room Number: 403
+Name: Auditorium Eagle
+Floor: 4
+Capacity: 33 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 22
+Room Number: 404
+Name: Study Room Eagle
+Floor: 4
+Capacity: 12 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 23
+Room Number: 405
+Name: Meeting Room Gamma
+Floor: 4
+Capacity: 30 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 24
+Room Number: 406
+Name: Study Room Gamma
+Floor: 4
+Capacity: 15 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 25
+Room Number: 501
+Name: Training Room Dragon
+Floor: 5
+Capacity: 40 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 26
+Room Number: 502
+Name: Training Room Alpha
+Floor: 5
+Capacity: 47 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 27
+Room Number: 503
+Name: Auditorium Sigma
+Floor: 5
+Capacity: 30 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 28
+Room Number: 504
+Name: Lab Omega
+Floor: 5
+Capacity: 50 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 29
+Room Number: 505
+Name: Training Room Dragon
+Floor: 5
+Capacity: 22 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Room ID: 30
+Room Number: 506
+Name: Auditorium Sigma
+Floor: 5
+Capacity: 7 people
+Created: 2025-03-13 05:33:25
+----------------------------------------
+
+PEOPLE
+--------------------------------------------------------------------------------
+Person ID: 10
+Name: Benjamin Hernandez
+Email: benjamin.hernandez@example.com
+Phone: 566-637-1901
+Role: Operations Manager
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 18
+Name: Charlotte Gonzalez
+Email: charlotte.gonzalez@example.com
+Phone: 641-281-3256
+Role: Cleaning Supervisor
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 16
+Name: Elizabeth Jones
+Email: elizabeth.jones@example.com
+Phone: 558-503-3686
+Role: Building Engineer
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 4
+Name: Emma Brown
+Email: emma.brown@example.com
+Phone: 896-785-2264
+Role: Building Engineer
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 14
+Name: Emma Wilson
+Email: emma.wilson@example.com
+Phone: 358-846-4094
+Role: IT Specialist
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 12
+Name: Evelyn Brown
+Email: evelyn.brown@example.com
+Phone: 405-612-3127
+Role: Cleaning Supervisor
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 5
+Name: Henry Miller
+Email: henry.miller@example.com
+Phone: 674-344-9662
+Role: Maintenance Supervisor
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 13
+Name: Isabella Gonzalez
+Email: isabella.gonzalez@example.com
+Phone: 610-202-9091
+Role: Facility Manager
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 19
+Name: Isabella Martinez
+Email: isabella.martinez@example.com
+Phone: 629-840-1269
+Role: Building Engineer
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 11
+Name: Isabella Miller
+Email: isabella.miller@example.com
+Phone: 758-477-4834
+Role: Cleaning Supervisor
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 6
+Name: Liam Jackson
+Email: liam.jackson@example.com
+Phone: 282-910-2451
+Role: IT Specialist
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 15
+Name: Lucas Moore
+Email: lucas.moore@example.com
+Phone: 476-481-6324
+Role: Security Officer
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 17
+Name: Mia Gonzalez
+Email: mia.gonzalez@example.com
+Phone: 952-652-2636
+Role: Room Coordinator
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 1
+Name: Mia Martinez
+Email: mia.martinez@example.com
+Phone: 350-546-2918
+Role: Room Coordinator
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 8
+Name: Mia Williams
+Email: mia.williams@example.com
+Phone: 156-578-1043
+Role: Cleaning Supervisor
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 2
+Name: Oliver Moore
+Email: oliver.moore@example.com
+Phone: 931-103-7594
+Role: Administrative Assistant
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 3
+Name: Sophia Jackson
+Email: sophia.jackson@example.com
+Phone: 754-893-9886
+Role: Operations Manager
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 7
+Name: William Brown
+Email: william.brown@example.com
+Phone: 484-470-6518
+Role: Administrative Assistant
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Person ID: 9
+Name: William Rodriguez
+Email: william.rodriguez@example.com
+Phone: 937-789-8023
+Role: Cleaning Supervisor
+Created: 2025-03-13 05:33:25
+----------------------------------------
+
+TASKS
+--------------------------------------------------------------------------------
+Task ID: 31
+Room: 101 - Conference Hall Beta
+Assigned to: Mia Martinez
+Description: Replace light fixtures
+Progress: 50%
+Status: completed
+Start Date: 2025-03-10 01:33:25.398399
+Due Date: 2025-03-17 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 2
+Room: 403 - Auditorium Eagle
+Assigned to: William Rodriguez
+Description: Install new equipment
+Progress: 50%
+Status: completed
+Start Date: 2025-02-28 01:33:25.398399
+Due Date: 2025-03-19 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 23
+Room: 304 - Lab Delta
+Assigned to: Sophia Jackson
+Description: Repair door lock
+Progress: 100%
+Status: completed
+Start Date: 2025-03-05 01:33:25.398399
+Due Date: 2025-03-21 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 47
+Room: 202 - Lab Alpha
+Assigned to: Emma Wilson
+Description: Regular maintenance check
+Progress: 0%
+Status: completed
+Start Date: 2025-03-04 01:33:25.398399
+Due Date: 2025-03-24 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 14
+Room: 305 - Conference Hall Beta
+Assigned to: Henry Miller
+Description: Replace chairs
+Progress: 75%
+Status: completed
+Start Date: 2025-03-11 01:33:25.398399
+Due Date: 2025-04-06 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 48
+Room: 401 - Office Delta
+Assigned to: Emma Wilson
+Description: Install new equipment
+Progress: 25%
+Status: completed
+Start Date: 2025-03-26 01:33:25.398399
+Due Date: 2025-04-09 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 36
+Room: 504 - Lab Omega
+Assigned to: William Brown
+Description: Deep cleaning required
+Progress: 75%
+Status: completed
+Start Date: 2025-03-18 01:33:25.398399
+Due Date: 2025-04-10 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 26
+Room: 201 - Conference Hall Gamma
+Assigned to: Isabella Gonzalez
+Description: Replace chairs
+Progress: 75%
+Status: completed
+Start Date: 2025-04-03 01:33:25.398399
+Due Date: 2025-04-19 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 10
+Room: 406 - Study Room Gamma
+Assigned to: Charlotte Gonzalez
+Description: Deep cleaning required
+Progress: 75%
+Status: completed
+Start Date: 2025-04-05 01:33:25.398399
+Due Date: 2025-04-20 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 15
+Room: 102 - Auditorium Beta
+Assigned to: Mia Martinez
+Description: Set up video conferencing
+Progress: 75%
+Status: completed
+Start Date: 2025-04-01 01:33:25.398399
+Due Date: 2025-04-25 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 4
+Room: 102 - Auditorium Beta
+Assigned to: Oliver Moore
+Description: Paint walls
+Progress: 75%
+Status: completed
+Start Date: 2025-05-03 01:33:25.398399
+Due Date: 2025-05-16 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 8
+Room: 302 - Office Dragon
+Assigned to: Benjamin Hernandez
+Description: Replace chairs
+Progress: 100%
+Status: completed
+Start Date: 2025-04-27 01:33:25.398399
+Due Date: 2025-05-21 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 44
+Room: 401 - Office Delta
+Assigned to: Sophia Jackson
+Description: Install new equipment
+Progress: 0%
+Status: completed
+Start Date: 2025-05-15 01:33:25.398399
+Due Date: 2025-06-01 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 1
+Room: 403 - Auditorium Eagle
+Assigned to: Sophia Jackson
+Description: Install new whiteboard
+Progress: 75%
+Status: completed
+Start Date: 2025-06-05 01:33:25.398399
+Due Date: 2025-06-08 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 43
+Room: 406 - Study Room Gamma
+Assigned to: William Brown
+Description: Fix ceiling tiles
+Progress: 50%
+Status: completed
+Start Date: 2025-06-04 01:33:25.398399
+Due Date: 2025-06-08 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 27
+Room: 202 - Lab Alpha
+Assigned to: Emma Brown
+Description: Update room signage
+Progress: 100%
+Status: completed
+Start Date: 2025-06-07 01:33:25.398399
+Due Date: 2025-06-13 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 30
+Room: 204 - Office Dragon
+Assigned to: Henry Miller
+Description: Update room signage
+Progress: 50%
+Status: completed
+Start Date: 2025-05-24 01:33:25.398399
+Due Date: 2025-06-23 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 35
+Room: 201 - Conference Hall Gamma
+Assigned to: Liam Jackson
+Description: Regular maintenance check
+Progress: 0%
+Status: completed
+Start Date: 2025-05-30 01:33:25.398399
+Due Date: 2025-06-24 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 9
+Room: 301 - Study Room Sigma
+Assigned to: Mia Williams
+Description: Update room signage
+Progress: 50%
+Status: completed
+Start Date: 2025-06-02 01:33:25.398399
+Due Date: 2025-06-25 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 21
+Room: 303 - Break Room Delta
+Assigned to: Charlotte Gonzalez
+Description: Replace light fixtures
+Progress: 75%
+Status: completed
+Start Date: 2025-06-03 01:33:25.398399
+Due Date: 2025-06-25 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 13
+Room: 201 - Conference Hall Gamma
+Assigned to: Evelyn Brown
+Description: Regular maintenance check
+Progress: 75%
+Status: completed
+Start Date: 2025-06-03 01:33:25.398399
+Due Date: 2025-06-26 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 3
+Room: 404 - Study Room Eagle
+Assigned to: William Rodriguez
+Description: Replace carpet
+Progress: 100%
+Status: in_progress
+Start Date: 2025-02-19 01:33:25.398399
+Due Date: 2025-02-20 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 19
+Room: 403 - Auditorium Eagle
+Assigned to: Emma Wilson
+Description: Install new whiteboard
+Progress: 50%
+Status: in_progress
+Start Date: 2025-03-03 01:33:25.398399
+Due Date: 2025-03-04 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 17
+Room: 305 - Conference Hall Beta
+Assigned to: Emma Wilson
+Description: Set up video conferencing
+Progress: 75%
+Status: in_progress
+Start Date: 2025-02-23 01:33:25.398399
+Due Date: 2025-03-17 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 16
+Room: 402 - Study Room Alpha
+Assigned to: Charlotte Gonzalez
+Description: Replace chairs
+Progress: 100%
+Status: in_progress
+Start Date: 2025-03-08 01:33:25.398399
+Due Date: 2025-03-20 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 5
+Room: 506 - Auditorium Sigma
+Assigned to: Mia Gonzalez
+Description: Install new blinds
+Progress: 0%
+Status: in_progress
+Start Date: 2025-03-13 01:33:25.398399
+Due Date: 2025-04-04 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 42
+Room: 303 - Break Room Delta
+Assigned to: Mia Williams
+Description: Update security system
+Progress: 0%
+Status: in_progress
+Start Date: 2025-04-03 01:33:25.398399
+Due Date: 2025-04-10 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 45
+Room: 203 - Auditorium Delta
+Assigned to: Isabella Miller
+Description: Update room signage
+Progress: 75%
+Status: in_progress
+Start Date: 2025-05-04 01:33:25.398399
+Due Date: 2025-05-10 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 39
+Room: 205 - Lab Gamma
+Assigned to: Mia Gonzalez
+Description: Install new equipment
+Progress: 75%
+Status: in_progress
+Start Date: 2025-05-06 01:33:25.398399
+Due Date: 2025-05-11 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 22
+Room: 201 - Conference Hall Gamma
+Assigned to: Sophia Jackson
+Description: Update security system
+Progress: 75%
+Status: in_progress
+Start Date: 2025-04-26 01:33:25.398399
+Due Date: 2025-05-12 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 24
+Room: 105 - Meeting Room Dragon
+Assigned to: Evelyn Brown
+Description: Replace carpet
+Progress: 50%
+Status: in_progress
+Start Date: 2025-05-01 01:33:25.398399
+Due Date: 2025-05-17 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 38
+Room: 502 - Training Room Alpha
+Assigned to: Evelyn Brown
+Description: Clean air vents
+Progress: 0%
+Status: in_progress
+Start Date: 2025-05-19 01:33:25.398399
+Due Date: 2025-05-29 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 12
+Room: 502 - Training Room Alpha
+Assigned to: Evelyn Brown
+Description: Update room schedule display
+Progress: 50%
+Status: in_progress
+Start Date: 2025-05-21 01:33:25.398399
+Due Date: 2025-06-05 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 46
+Room: 505 - Training Room Dragon
+Assigned to: Liam Jackson
+Description: Deep cleaning required
+Progress: 0%
+Status: in_progress
+Start Date: 2025-05-16 01:33:25.398399
+Due Date: 2025-06-11 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 18
+Room: 202 - Lab Alpha
+Assigned to: Oliver Moore
+Description: Update security system
+Progress: 75%
+Status: in_progress
+Start Date: 2025-06-01 01:33:25.398399
+Due Date: 2025-06-12 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 28
+Room: 206 - Auditorium Phoenix
+Assigned to: William Brown
+Description: Fix broken furniture
+Progress: 0%
+Status: in_progress
+Start Date: 2025-06-08 01:33:25.398399
+Due Date: 2025-06-15 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 37
+Room: 301 - Study Room Sigma
+Assigned to: Emma Brown
+Description: Check electrical outlets
+Progress: 100%
+Status: pending
+Start Date: 2025-02-13 01:33:25.398399
+Due Date: 2025-02-26 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 6
+Room: 202 - Lab Alpha
+Assigned to: Mia Martinez
+Description: Fix ceiling tiles
+Progress: 25%
+Status: pending
+Start Date: 2025-03-12 01:33:25.398399
+Due Date: 2025-03-24 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 7
+Room: 104 - Conference Hall Dragon
+Assigned to: William Rodriguez
+Description: Update room signage
+Progress: 0%
+Status: pending
+Start Date: 2025-03-02 01:33:25.398399
+Due Date: 2025-03-30 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 25
+Room: 401 - Office Delta
+Assigned to: Isabella Miller
+Description: Update room schedule display
+Progress: 100%
+Status: pending
+Start Date: 2025-03-24 01:33:25.398399
+Due Date: 2025-04-04 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 32
+Room: 403 - Auditorium Eagle
+Assigned to: Mia Gonzalez
+Description: Replace light fixtures
+Progress: 25%
+Status: pending
+Start Date: 2025-03-24 01:33:25.398399
+Due Date: 2025-04-04 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 41
+Room: 201 - Conference Hall Gamma
+Assigned to: William Brown
+Description: Update security system
+Progress: 0%
+Status: pending
+Start Date: 2025-04-10 01:33:25.398399
+Due Date: 2025-04-19 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 40
+Room: 102 - Auditorium Beta
+Assigned to: Isabella Gonzalez
+Description: Paint walls
+Progress: 50%
+Status: pending
+Start Date: 2025-03-31 01:33:25.398399
+Due Date: 2025-04-21 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 29
+Room: 202 - Lab Alpha
+Assigned to: Mia Gonzalez
+Description: Paint walls
+Progress: 75%
+Status: pending
+Start Date: 2025-04-29 01:33:25.398399
+Due Date: 2025-05-06 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 50
+Room: 403 - Auditorium Eagle
+Assigned to: Benjamin Hernandez
+Description: Fix broken furniture
+Progress: 0%
+Status: pending
+Start Date: 2025-04-22 01:33:25.398399
+Due Date: 2025-05-18 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 49
+Room: 102 - Auditorium Beta
+Assigned to: Isabella Gonzalez
+Description: Fix broken furniture
+Progress: 100%
+Status: pending
+Start Date: 2025-05-17 01:33:25.398399
+Due Date: 2025-05-20 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 11
+Room: 506 - Auditorium Sigma
+Assigned to: Liam Jackson
+Description: Replace light fixtures
+Progress: 50%
+Status: pending
+Start Date: 2025-05-31 01:33:25.398399
+Due Date: 2025-06-04 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 33
+Room: 404 - Study Room Eagle
+Assigned to: Oliver Moore
+Description: Update security system
+Progress: 0%
+Status: pending
+Start Date: 2025-05-19 01:33:25.398399
+Due Date: 2025-06-08 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 34
+Room: 202 - Lab Alpha
+Assigned to: Oliver Moore
+Description: Set up video conferencing
+Progress: 25%
+Status: pending
+Start Date: 2025-05-24 01:33:25.398399
+Due Date: 2025-06-12 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+Task ID: 20
+Room: 203 - Auditorium Delta
+Assigned to: Emma Wilson
+Description: Set up video conferencing
+Progress: 100%
+Status: pending
+Start Date: 2025-06-09 01:33:25.398399
+Due Date: 2025-06-27 01:33:25.398399
+Created: 2025-03-13 05:33:25
+----------------------------------------
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total Rooms: 30
+Total People: 19
+Total Tasks: 50
+
+Task Status Breakdown:
+- completed: 21 tasks
+- in_progress: 15 tasks
+- pending: 14 tasks
